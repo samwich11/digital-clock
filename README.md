@@ -23,7 +23,7 @@ A sleek and customizable digital clock built using **HTML**, **CSS**, and **Java
 ## Installation
 
 1. Clone the repository:
-   https://samwich11.github.io/digital-clock/
+   https://github.com/samwich11/digital-clock.git
 2. Navigate to the project directory:
 3. Open `index.html` in your preferred web browser.
 
